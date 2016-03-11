@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    }
+]

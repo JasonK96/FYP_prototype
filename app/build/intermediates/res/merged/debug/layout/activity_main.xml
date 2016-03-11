@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.ken.fyp_prototype.MainActivity"
+    android:background="#33adff">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/towngas"
+        android:id="@+id/Towngas"
+        android:textSize="40sp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="33dp"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/site"
+        android:id="@+id/Site"
+        android:textSize="35sp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/Towngas"
+        android:layout_centerHorizontal="true"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/inspection"
+        android:id="@+id/Inspection"
+        android:textSize="35sp"
+        android:layout_below="@+id/Towngas"
+        android:layout_toEndOf="@+id/Site"
+        android:layout_marginStart="10sp"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/form"
+        android:id="@+id/Form"
+        android:textSize="35sp"
+        android:layout_below="@+id/Towngas"
+        android:layout_toEndOf="@+id/Inspection"
+        android:layout_marginStart="10sp"
+        android:textColor="#ffffff"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="40dip"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/select_language_cn"
+        android:id="@+id/Select_language_cn"
+        android:layout_below="@+id/Form"
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp"
+        android:textColor="#ffffff" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dip"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/select_language_en"
+        android:id="@+id/Select_language_en"
+        android:layout_below="@+id/Select_language_cn"
+        android:layout_centerHorizontal="true"
+        android:textSize="30sp"
+        android:textColor="#ffffff" />
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:text="@string/中文"
+        android:textSize="20sp"
+        android:id="@+id/Language_cn"
+        android:layout_below="@+id/Select_language_en"
+        android:layout_alignStart="@+id/Select_language_en"
+        android:layout_marginStart="32dp"
+        android:layout_marginTop="29dp"
+        android:background="#858a8a"
+        android:textColor="#FFFFFF" />
+
+    <Button
+        android:layout_width="120dp"
+        android:layout_height="80dp"
+        android:text="@string/English"
+        android:textSize="20sp"
+        android:id="@+id/Language_en"
+        android:layout_alignTop="@+id/Language_cn"
+        android:layout_alignEnd="@+id/Select_language_en"
+        android:layout_marginEnd="29dp"
+        android:background="#858a8a"
+        android:textColor="#FFFFFF" />
+
+    <!--Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="quick"
+        android:id="@+id/btn_quick"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:background="#858a8a"
+        android:textColor="#FFFFFF" /-->
+
+
+</RelativeLayout>

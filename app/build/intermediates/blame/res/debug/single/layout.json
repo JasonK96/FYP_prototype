@@ -1,0 +1,686 @@
+[
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/login_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/src/main/res/layout/login_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/fill_form.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/src/main/res/layout/fill_form.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_help.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\layout\\zxing_help.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/zxing_encode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/res/layout/zxing_encode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/finish.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/src/main/res/layout/finish.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_include.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/photo.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/src/main/res/layout/photo.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\login_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\finish.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\src\\main\\res\\layout\\finish.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fill_form.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\fill_form.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxinglegacy_help.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\layout\\zxinglegacy_help.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/function_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/src/main/res/layout/function_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/zxinglegacy_help.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/res/layout/zxinglegacy_help.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qrscanner_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\qrscanner_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\src\\main\\res\\layout\\login_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxinglegacy_encode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\layout\\zxinglegacy_encode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxinglegacy_encode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\layout\\zxinglegacy_encode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/zxinglegacy_encode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/res/layout/zxinglegacy_encode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/zxing_capture.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/res/layout/zxing_capture.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\function_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qrscanner_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\qrscanner_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\src\\main\\res\\layout\\function_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxinglegacy_help.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\layout\\zxinglegacy_help.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxinglegacy_encode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\layout\\zxinglegacy_encode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_simple_dropdown_hint.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/qrscanner_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/src/main/res/layout/qrscanner_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\finish.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\finish.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\src\\main\\res\\layout\\photo.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\photo.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\photo.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_help.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\layout\\zxing_help.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_encode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\layout\\zxing_encode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxinglegacy_capture.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\layout\\zxinglegacy_capture.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxinglegacy_capture.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\layout\\zxinglegacy_capture.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\qrscanner_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\src\\main\\res\\layout\\qrscanner_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\function_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\function_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxinglegacy_capture.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\layout\\zxinglegacy_capture.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_help.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\layout\\zxing_help.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_encode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\layout\\zxing_encode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_page.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\login_page.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/zxing_help.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/res/layout/zxing_help.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/zxinglegacy_capture.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/res/layout/zxinglegacy_capture.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fill_form.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\src\\main\\res\\layout\\fill_form.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_page_cn.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\src\\main\\res\\layout\\login_page_cn.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxinglegacy_help.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\layout\\zxinglegacy_help.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_capture.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\layout\\zxing_capture.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zxing_encode.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\layout\\zxing_encode.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\21.0.3\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    }
+]

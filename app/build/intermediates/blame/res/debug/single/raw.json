@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/raw/zxinglegacy_beep.ogg",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-legacy/2.0.1/res/raw/zxinglegacy_beep.ogg"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxinglegacy_beep.ogg",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\raw\\zxinglegacy_beep.ogg"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxinglegacy_beep.ogg",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\raw\\zxinglegacy_beep.ogg"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxinglegacy_beep.ogg",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-legacy\\2.0.1\\res\\raw\\zxinglegacy_beep.ogg"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\res\\merged\\debug\\raw\\zxing_beep.ogg",
+        "source": "/Users/Jason/Desktop/FYP_prototype/D:\\Users\\Jason\\Downloads\\Prototype\\within QRScanner\\FYP_prototype\\C:\\Users\\Ken\\AndroidStudioProjects\\FYP_prototype\\app\\build\\intermediates\\exploded-aar\\com.journeyapps\\zxing-android-embedded\\2.0.1\\res\\raw\\zxing_beep.ogg"
+    },
+    {
+        "merged": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/res/merged/debug/raw/zxing_beep.ogg",
+        "source": "/Users/Jason/Desktop/FYP_prototype/app/build/intermediates/exploded-aar/com.journeyapps/zxing-android-embedded/2.0.1/res/raw/zxing_beep.ogg"
+    }
+]
